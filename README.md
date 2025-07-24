@@ -5,6 +5,6 @@ Exploratory Data Analysis
 
 Instructor: Abdul Moiz Khan
 
-This course is offered by Panaverse and Saylani Mass IT Training Program.
+This course is offered by Ghulam Ishaq Khan Institute IT Training Program.
 
 The following repository contains practise exercises in .ipynb and .Rmd formats.
