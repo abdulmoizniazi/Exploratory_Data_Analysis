@@ -3,7 +3,7 @@ All EDA techniques will be uploaded here
 
 Exploratory Data Analysis.
 
-Instructor: Abdul Moiz Khan
+Instructor: Abdul Moiz Khan.
 
 This course is offered by Ghulam Ishaq Khan Institute IT Training Program.
 
