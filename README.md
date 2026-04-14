@@ -1,7 +1,7 @@
 # Exploratory_Data_Analysis
 All EDA techniques will be uploaded here 
 
-Exploratory Data Analysis
+Exploratory Data Analysis.
 
 Instructor: Abdul Moiz Khan
 
